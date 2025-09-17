@@ -1,6 +1,6 @@
 # CEP-7K
 
-CEP-7K (Chinese Exam Papers-7K) is the competition dataset for ***ICDAR 2025 Competition on Understanding Chinese College Entrance Exam Papers*** from [The 19th International Conference on Document Analysis and Recognition (ICDAR2025)](https://www.icdar2025.com/home). This dataset consists of 7,000 question-answer pairs derived from past Chinese college entrance exam papers across various subjects. These questions are organized into 10 categories.
+CEP-7K (Chinese College Entrance Exam Papers-7K) is the competition dataset for [***ICDAR 2025 Competition on Understanding Chinese College Entrance Exam Papers***](https://note.kxsz.net/share/b0d4b929-232d-460d-9107-374a15d6767f) from [The 19th International Conference on Document Analysis and Recognition (ICDAR2025)](https://www.icdar2025.com/home). This dataset consists of 7,000 question-answer pairs derived from past Chinese college entrance exam papers across various subjects. These questions are organized into 10 categories.
 
 The ***ICDAR 2025 Competition on Understanding Chinese College Entrance Exam Papers*** was organized by both [Kexin Technology, CNPIEC, Beijing, China](https://note.kxsz.net/) and [Wangxuan Institute of Computer Technology, Peking University](https://www.icst.pku.edu.cn/index.htm).
 
