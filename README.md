@@ -6,4 +6,4 @@ The ***ICDAR 2025 Competition on Understanding Chinese College Entrance Exam Pap
 
 Details of the competition is introduced in the paper of ***ICDAR 2025 Competition on Understanding Chinese College Entrance Exam Papers*** (to be published). Authors of the paper include Wen-hao Yu, Tian-rui Zong, [He Zhang](https://scholar.google.com/citations?user=CM_tgIEAAAAJ&hl=en&oi=ao)\*, Lin Yang, He Yang, Guan-hao Wu, Ruo-hua Xu, Qin-qin Yan, and [Liang-cai Gao](https://www.icst.pku.edu.cn/xstd/xstd_01/1222616.htm)\*. (* represents corresponding authors.)
 
-CEP-7K can be downloaded freely from HuggingFace: [Kexin-Technology/CEP-7k](https://huggingface.co/datasets/Kexin-Technology/CEP-7K).
+CEP-7K can be downloaded freely from HuggingFace: [Kexin-Technology/CEP-7K](https://huggingface.co/datasets/Kexin-Technology/CEP-7K).
